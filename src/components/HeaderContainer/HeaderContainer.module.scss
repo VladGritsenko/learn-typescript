@@ -1,0 +1,80 @@
+.mainContainer {
+    position: relative;
+    height: calc(100vh - 100px);
+    width: 100%;
+    background-image: linear-gradient(#000, #222429);
+    box-sizing: border-box;
+    padding-top: 30px;
+}
+
+.bottomContainer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 20vh;
+    width: 100%;
+    background-color: #fff;
+    clip-path: polygon(0 0, 0% 100%, 100% 100%);
+}
+
+.infoContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.textContainer {
+    width: 50%;
+    padding: 20px 50px;
+    display: flex;
+    flex-direction: column;
+
+    .title {
+        font-size: 36px;
+        color: #fff;
+        margin-bottom: 25px;
+    }
+    
+    .text {
+        font-size: 20px;
+        color: #aba290;
+        margin-bottom: 30px;
+    }
+}
+
+.imgContainer {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    .photoWrapper {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 340px;
+        width: 270px;
+        background-color: #fff;
+
+        img {
+            height: 340px;
+            width: 270px;
+            transform: translate(30px, 30px);
+        }
+    }
+}
+
+.moreProjectsButton {
+    height: 50px;
+    width: 200px;
+    background-color: #4a67af;
+    border: 2px solid #4a67af; 
+    color: #fff;
+    font-weight: 500;
+    font-size: 18px;
+    border-radius: 25px;
+    transition: background-color 0.3s ease-in-out;
+
+    &:hover {
+        background-color: transparent;
+    }
+}

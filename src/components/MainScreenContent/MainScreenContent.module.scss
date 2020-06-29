@@ -1,0 +1,24 @@
+.mainContainer {
+    padding: 0 50px 20px;
+    background-color: #fff;
+
+    h3 {
+        text-transform: uppercase;
+        font-weight: 600;
+        font-size: 24px;
+        color: #919191;
+    }
+
+    .breakLine {
+        height: 3px;
+        width: 100%;
+        margin-top: 15px;
+        margin-bottom: 40px;
+        background-color: #f6f6f6;
+    }
+
+    .toolsContainer {
+        display: flex;
+        justify-content: space-between;
+    }
+}
