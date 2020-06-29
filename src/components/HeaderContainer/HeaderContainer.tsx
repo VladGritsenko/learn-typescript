@@ -24,7 +24,7 @@ const HeaderContainer: React.FC = () => {
                 </div>
                 <div className={styles.imgContainer}>
                     <div className={styles.photoWrapper}>
-                        <img src={require('../../assets/img/mainPhoto.jpg')} alt="My Photo"/>
+                        <img src={require('../../assets/img/mainPhoto.jpg')} alt="My"/>
                     </div>
                 </div>
             </div>
