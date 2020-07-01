@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/learn-typescript/static/css/main.41160809.chunk.css",
-    "main.js": "/learn-typescript/static/js/main.6647f152.chunk.js",
-    "main.js.map": "/learn-typescript/static/js/main.6647f152.chunk.js.map",
-    "runtime-main.js": "/learn-typescript/static/js/runtime-main.b6d0a7e4.js",
-    "runtime-main.js.map": "/learn-typescript/static/js/runtime-main.b6d0a7e4.js.map",
-    "static/js/2.85c3c3f8.chunk.js": "/learn-typescript/static/js/2.85c3c3f8.chunk.js",
-    "static/js/2.85c3c3f8.chunk.js.map": "/learn-typescript/static/js/2.85c3c3f8.chunk.js.map",
+    "main.js": "/learn-typescript/static/js/main.b7e73381.chunk.js",
+    "main.js.map": "/learn-typescript/static/js/main.b7e73381.chunk.js.map",
+    "runtime-main.js": "/learn-typescript/static/js/runtime-main.68505f09.js",
+    "runtime-main.js.map": "/learn-typescript/static/js/runtime-main.68505f09.js.map",
+    "static/js/2.0154b953.chunk.js": "/learn-typescript/static/js/2.0154b953.chunk.js",
+    "static/js/2.0154b953.chunk.js.map": "/learn-typescript/static/js/2.0154b953.chunk.js.map",
     "index.html": "/learn-typescript/index.html",
-    "precache-manifest.25c2a1ecb76628df6728ec187bef81a3.js": "/learn-typescript/precache-manifest.25c2a1ecb76628df6728ec187bef81a3.js",
+    "precache-manifest.42493a17c4fe8fd67d110519a070574c.js": "/learn-typescript/precache-manifest.42493a17c4fe8fd67d110519a070574c.js",
     "service-worker.js": "/learn-typescript/service-worker.js",
     "static/css/main.41160809.chunk.css.map": "/learn-typescript/static/css/main.41160809.chunk.css.map",
-    "static/js/2.85c3c3f8.chunk.js.LICENSE.txt": "/learn-typescript/static/js/2.85c3c3f8.chunk.js.LICENSE.txt",
+    "static/js/2.0154b953.chunk.js.LICENSE.txt": "/learn-typescript/static/js/2.0154b953.chunk.js.LICENSE.txt",
     "static/media/facebook.svg": "/learn-typescript/static/media/facebook.81da6a92.svg",
     "static/media/instagram.svg": "/learn-typescript/static/media/instagram.42530325.svg",
     "static/media/linkedin.svg": "/learn-typescript/static/media/linkedin.401e6c40.svg",
@@ -20,9 +20,9 @@
     "static/media/react_native.svg": "/learn-typescript/static/media/react_native.eaaa42b1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b6d0a7e4.js",
-    "static/js/2.85c3c3f8.chunk.js",
+    "static/js/runtime-main.68505f09.js",
+    "static/js/2.0154b953.chunk.js",
     "static/css/main.41160809.chunk.css",
-    "static/js/main.6647f152.chunk.js"
+    "static/js/main.b7e73381.chunk.js"
   ]
 }
