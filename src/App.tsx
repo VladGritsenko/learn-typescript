@@ -12,7 +12,7 @@ function App() {
     <div className="App">
       <Router history={history}>
         <Switch>
-          <Route exact path='/' component={MainScreen}/>
+          <Route exact path='/learn-typescript/' component={MainScreen}/>
         </Switch>
       </Router>
     </div>
