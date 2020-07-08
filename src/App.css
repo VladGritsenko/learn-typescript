@@ -10,9 +10,3 @@ a {
 button {
   cursor: pointer;
 }
-
-.p-carousel-items-container {
-  display: flex!important;
-  justify-content: space-between;
-  align-items: center;
-}
