@@ -43,7 +43,7 @@ const MainScreenContent: React.FC<any> = () => {
                     description='React Native is an open-source mobile application framework created by Facebook. It is used to develop applications for Android, iOS, Web and UWP by enabling developers to use React along with native platform capabilities. The working principles of React Native are virtually identical to React except that React Native does not manipulate the DOM via the Virtual DOM. It runs in a background process directly on the end-device and communicates with the native platform via a serialisation, asynchronous and batched Bridge.'
                 />
             </div>
-            <div style={{position: 'relative', margin: '80px 50px 0'}}>
+            <div className={styles.carouselContainer}>
                 <CarouselProvider
                     naturalSlideWidth={100}
                     naturalSlideHeight={100}

@@ -79,3 +79,24 @@
         }
     }
 }
+
+@media screen and (max-width: 700px) {
+    .topContainer {
+        display: none
+    }
+
+    .infoContainer {
+        padding-top: 50px;
+        flex-direction: column;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }
+
+    .contactInfoContainer {
+        padding-left: 0;
+    }
+
+    .textContainer {
+        width: 85%;
+    }
+}

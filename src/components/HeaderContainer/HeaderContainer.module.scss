@@ -78,3 +78,17 @@
         background-color: transparent;
     }
 }
+
+@media screen and (max-width: 900px) {
+    .imgContainer {
+        display: none;
+    }
+
+    .mainContainer {
+        height: calc(100vh - 80px);
+    }
+
+    .bottomContainer {
+        display: none;
+    }
+}
