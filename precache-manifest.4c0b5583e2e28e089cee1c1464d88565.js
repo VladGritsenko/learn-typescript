@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ed21a06ac57d5af42ddfe6f137cf8e4a",
+    "revision": "33693ff5219e81e177b9e9bee54805c9",
     "url": "/learn-typescript/index.html"
   },
   {
-    "revision": "ec9f7767888a7537efe2",
+    "revision": "dcb8b110f587fa697bd7",
     "url": "/learn-typescript/static/css/2.1a0a2c47.chunk.css"
   },
   {
-    "revision": "8e9c355c26e26de37b20",
-    "url": "/learn-typescript/static/css/main.6a8cffe8.chunk.css"
+    "revision": "cf163a6b4e827f952ff9",
+    "url": "/learn-typescript/static/css/main.2da3ed97.chunk.css"
   },
   {
-    "revision": "ec9f7767888a7537efe2",
-    "url": "/learn-typescript/static/js/2.c2860c38.chunk.js"
+    "revision": "dcb8b110f587fa697bd7",
+    "url": "/learn-typescript/static/js/2.d254f49f.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/learn-typescript/static/js/2.c2860c38.chunk.js.LICENSE.txt"
+    "url": "/learn-typescript/static/js/2.d254f49f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8e9c355c26e26de37b20",
-    "url": "/learn-typescript/static/js/main.507f72d1.chunk.js"
+    "revision": "cf163a6b4e827f952ff9",
+    "url": "/learn-typescript/static/js/main.851c1c5c.chunk.js"
   },
   {
     "revision": "3c90207723efe178d312",
