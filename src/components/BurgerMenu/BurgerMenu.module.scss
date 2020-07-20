@@ -1,0 +1,31 @@
+.burgerContainer {
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    z-index: 10;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: #fff;
+    padding: 100px 50px;
+    transition: background-color 0.4s ease-in-out;
+
+    a {
+        color: #000;
+        line-height: 60px;
+        font-size: 24px;
+        width: calc(100% - 100px);
+        border-bottom: 2px solid lightgray;
+    }
+
+    .activeLink {
+        border-bottom: 2px solid #4a67af;
+    }
+}
+
+@media screen and (max-width: 900px) {
+    .main {
+        padding-top: 10px; 
+    }
+}

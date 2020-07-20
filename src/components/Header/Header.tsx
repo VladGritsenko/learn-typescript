@@ -19,7 +19,7 @@ export const menuItems: Array<IMenuItems> = [
     {
         id: uuid(), 
         label: 'Progects',
-        path: '/'
+        path: '/learn-typescript/projects'
     },
     {
         id: uuid(), 
@@ -42,7 +42,7 @@ const Header: React.FC<IHeader> = ({ title = 'Vlad Grytsenko', burgerMenuIsOpen 
 
     return (
         <div className={styles.header}>
-            <Link to='/progects' className={burgerMenuIsOpen ? styles.titleBlack : styles.title}>
+            <Link to='/learn-typescript/' className={burgerMenuIsOpen ? styles.titleBlack : styles.title}>
                 <h1>{title}</h1>
             </Link>
             <ul>
