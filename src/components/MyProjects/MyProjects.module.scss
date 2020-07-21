@@ -6,4 +6,53 @@
     padding-top: 30px;
     background-color: black;
     position: relative;
+
+    .labelContainer {
+        background-color: #fff;
+        width: 100%;
+        padding: 0 50px;
+        box-sizing: border-box;
+
+        h3 {
+            text-transform: uppercase;
+            font-weight: 600;
+            font-size: 24px;
+            color: #919191;
+        }
+    
+        .breakLine {
+            height: 3px;
+            width: 100%;
+            margin-top: 15px;
+            margin-bottom: 20px;
+            background-color: #f6f6f6;
+        }
+    }
+}
+
+.toolsContainer {
+    display: grid;
+    background-color: #fff!important;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, 20px);
+    justify-content: space-between;
+    gap: 10px 0;
+}
+
+.checkboxContainer {
+    display: flex;
+    align-items: center;
+    padding: 30px 50px 0;
+
+    input[type=checkbox] {
+        height: 18px;
+        width: 18px;
+    }
+
+    label {
+        padding-left: 10px;
+        font-style: italic;
+        font-weight: bold;
+        color: #1e2024;
+    }
 }
