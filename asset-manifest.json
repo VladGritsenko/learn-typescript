@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/learn-typescript/static/css/main.2da3ed97.chunk.css",
-    "main.js": "/learn-typescript/static/js/main.851c1c5c.chunk.js",
-    "main.js.map": "/learn-typescript/static/js/main.851c1c5c.chunk.js.map",
+    "main.css": "/learn-typescript/static/css/main.8dc3ac8a.chunk.css",
+    "main.js": "/learn-typescript/static/js/main.503aa8d7.chunk.js",
+    "main.js.map": "/learn-typescript/static/js/main.503aa8d7.chunk.js.map",
     "runtime-main.js": "/learn-typescript/static/js/runtime-main.68505f09.js",
     "runtime-main.js.map": "/learn-typescript/static/js/runtime-main.68505f09.js.map",
     "static/css/2.1a0a2c47.chunk.css": "/learn-typescript/static/css/2.1a0a2c47.chunk.css",
-    "static/js/2.d254f49f.chunk.js": "/learn-typescript/static/js/2.d254f49f.chunk.js",
-    "static/js/2.d254f49f.chunk.js.map": "/learn-typescript/static/js/2.d254f49f.chunk.js.map",
+    "static/js/2.38ccdcff.chunk.js": "/learn-typescript/static/js/2.38ccdcff.chunk.js",
+    "static/js/2.38ccdcff.chunk.js.map": "/learn-typescript/static/js/2.38ccdcff.chunk.js.map",
     "index.html": "/learn-typescript/index.html",
-    "precache-manifest.4c0b5583e2e28e089cee1c1464d88565.js": "/learn-typescript/precache-manifest.4c0b5583e2e28e089cee1c1464d88565.js",
+    "precache-manifest.1837d02d7ba21c275f296c63cb4349c9.js": "/learn-typescript/precache-manifest.1837d02d7ba21c275f296c63cb4349c9.js",
     "service-worker.js": "/learn-typescript/service-worker.js",
     "static/css/2.1a0a2c47.chunk.css.map": "/learn-typescript/static/css/2.1a0a2c47.chunk.css.map",
-    "static/css/main.2da3ed97.chunk.css.map": "/learn-typescript/static/css/main.2da3ed97.chunk.css.map",
-    "static/js/2.d254f49f.chunk.js.LICENSE.txt": "/learn-typescript/static/js/2.d254f49f.chunk.js.LICENSE.txt",
+    "static/css/main.8dc3ac8a.chunk.css.map": "/learn-typescript/static/css/main.8dc3ac8a.chunk.css.map",
+    "static/js/2.38ccdcff.chunk.js.LICENSE.txt": "/learn-typescript/static/js/2.38ccdcff.chunk.js.LICENSE.txt",
     "static/media/back.svg": "/learn-typescript/static/media/back.6c9efe0c.svg",
     "static/media/bootstrap.svg": "/learn-typescript/static/media/bootstrap.3c6f219c.svg",
     "static/media/css.svg": "/learn-typescript/static/media/css.55338d57.svg",
@@ -41,8 +41,8 @@
   "entrypoints": [
     "static/js/runtime-main.68505f09.js",
     "static/css/2.1a0a2c47.chunk.css",
-    "static/js/2.d254f49f.chunk.js",
-    "static/css/main.2da3ed97.chunk.css",
-    "static/js/main.851c1c5c.chunk.js"
+    "static/js/2.38ccdcff.chunk.js",
+    "static/css/main.8dc3ac8a.chunk.css",
+    "static/js/main.503aa8d7.chunk.js"
   ]
 }
